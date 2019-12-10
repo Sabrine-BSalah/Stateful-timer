@@ -1,7 +1,7 @@
 .App{
     background-image: url("./Component/tablet.jpg");
     background-size: cover ;
-    height: 737px;
+    height: 705px;
     position: relative;
     color: white;
     font-family: 'Chakra Petch', sans-serif;
@@ -11,7 +11,7 @@
 .stateful-content{
     position:absolute;
     bottom: 100px;
-    right: 620px
+    right: 610px
 }
 
 .timer-button{
